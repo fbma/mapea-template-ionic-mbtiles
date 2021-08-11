@@ -1,4 +1,5 @@
 import html from './map.html'
+import './map.css'
 const ZOOM_PROV = 6
 
 export default class ViewMap extends HTMLElement {
